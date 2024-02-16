@@ -2,7 +2,8 @@
 
 Categories: Music, bands, concerts, festivals, and more.
 
-Examen:
+Examen 2do DAM:
+
 - (0pts) Crea la base de datos `tunenews` con una tabla `articles` con los siguientes campos:
     - id (int)
     - title (varchar)
